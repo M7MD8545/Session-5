@@ -1,0 +1,8 @@
+Code Reusability: Subclasses (derived classes) automatically inherit attributes and methods from the superclass (base class). 
+                  This allows you to write common logic once and reuse it across multiple classes without duplicating code.
+
+Maintainability and Modularity: Updating or fixing a bug in the base class automatically updates that functionality across all derived classes, making the code much easier to maintain and refactor.
+
+Extensibility: You can easily add new features or subclasses to an existing system without modifying the original base code, following the Open/Closed Principle.
+
+Polymorphism Support: Inheritance lays the foundation for runtime polymorphism (method overriding), allowing you to treat objects of different derived classes as objects of a single base class type.
