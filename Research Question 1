@@ -2,3 +2,5 @@ Class: A blueprint, template, or schema that defines the structure, attributes (
        that created entities will have. It occupies no memory space when defined.
 Object: A concrete instance of a class created at runtime. 
         It represents a real entity with state and values assigned to its attributes, and it consumes memory space.
+The relationship between them: Class is the Blueprint but, Object is the Product.
+        A single class can be used to instantiate (create) multiple independent objects, each with its own state.
