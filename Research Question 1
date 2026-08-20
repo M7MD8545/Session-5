@@ -1,0 +1,4 @@
+Class: A blueprint, template, or schema that defines the structure, attributes (variables), and behaviors (functions/methods)
+       that created entities will have. It occupies no memory space when defined.
+Object: A concrete instance of a class created at runtime. 
+        It represents a real entity with state and values assigned to its attributes, and it consumes memory space.
